@@ -17,7 +17,7 @@
     "crypto": "0.0.3",
     "debug": "~2.2.0",
     "dotenv": "^2.0.0",
-    "ejs": "^2.4.1",
+    "ejs": "^3.1.6",
     "errorhandler": "^1.4.3",
     "express": "~4.13.1",
     "express-flash": "0.0.2",
